@@ -3,7 +3,6 @@
 This is a simple Minecraft server webhook for Discord
 
 >Feel free to alter the code of this plugin to your needs
->Update this readme
 
 
 ## Features
@@ -13,6 +12,7 @@ This is a simple Minecraft server webhook for Discord
 * Message on server shutdown
 * Message when a player joins
 * Message when a player leaves
+* Message when a player dies
 
 
 ## Installation
